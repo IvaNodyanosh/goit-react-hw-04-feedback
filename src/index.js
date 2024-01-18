@@ -10,4 +10,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;600;800&display=swap');
     </style>
   </React.StrictMode>
+  
 );
