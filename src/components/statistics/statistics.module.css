@@ -1,0 +1,12 @@
+.statistics__list{
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    display: block;
+    width: auto;
+    margin: 0 auto;
+}
+
+.statistics__name{
+    font-weight: 600;
+}

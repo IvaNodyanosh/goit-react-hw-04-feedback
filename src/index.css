@@ -1,0 +1,11 @@
+@import-normalize; /* bring in normalize.css styles */
+
+
+ul{
+    list-style: none;
+}
+
+ul, p, li, h1, h2, h3, h4{
+    padding: 0;
+    margin: 0;
+}

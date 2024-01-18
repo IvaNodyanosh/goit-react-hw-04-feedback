@@ -1,0 +1,36 @@
+.feedback__list{
+
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 30px;
+}
+.feedback__list > li:not(:last-child){
+    margin-right: 50px;
+}
+
+.feedback__button{
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    border: none;
+}
+
+.feedbackIcon__good{
+    fill: #0eeb54;
+    width: 40px;
+    height: auto;
+}
+
+.feedbackIcon__neutral {
+    fill: #fcf914;
+    width: 40px;
+    height: auto;
+}
+
+.feedbackIcon__bad {
+    fill: #f71307;
+    width: 40px;
+    height: auto;
+}
+
